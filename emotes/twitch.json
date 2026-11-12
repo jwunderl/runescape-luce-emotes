@@ -1,0 +1,1264 @@
+{
+  "version": 1,
+  "provider": "twitch",
+  "channel": "lucellia",
+  "broadcasterId": "568079487",
+  "emotes": [
+    {
+      "id": "emotesv2_3ed3c616d5a94e2f83ccf22402528c1c",
+      "name": "luce67",
+      "file": "luce67.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "e72ee371a1197260e7e75beef33f3e4d2afe69ed29138f9c7f1b9b27d32ada15"
+    },
+    {
+      "id": "emotesv2_dfd398f2229f4289a8c1d7bd28e84c03",
+      "name": "luceAGO",
+      "file": "luceAGO.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "cd952eaeeb5ba91251d7b6e6971d502da7ced1c5e535d88fe2c9d6069b09a7ed"
+    },
+    {
+      "id": "emotesv2_1e754850f91946bab701b61226bad521",
+      "name": "luceAGOLD",
+      "file": "luceAGOLD.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "dd202f9a391bc44d19ed7975ce5bb7cf898478737eb43593c505519e64b896bd"
+    },
+    {
+      "id": "emotesv2_92703c6421af48fe85f7fb29c49745d5",
+      "name": "luceAWOOGA",
+      "file": "luceAWOOGA.gif",
+      "animated": true,
+      "frames": 42,
+      "sha256": "2fe68a05cc844343c6ba2032b31a5b41a6dac84ce3dafd588a8198a1770992d8"
+    },
+    {
+      "id": "emotesv2_3b3960c4c5fd4a17915a8c2021c74b2b",
+      "name": "luceAga",
+      "file": "luceAga.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "4f3379f4cb831b44afe4138f7e78bf2988f4d156fc6704fa750feec7a445fe11"
+    },
+    {
+      "id": "emotesv2_cf2022ab7e114a4a9ed5055351323cc0",
+      "name": "luceAgony",
+      "file": "luceAgony.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "26d37d687bbafe64270879d67e44de37e7387c714faf223a3663d090c76ce060"
+    },
+    {
+      "id": "emotesv2_3f285f26d51c443c877c90030fde5d67",
+      "name": "luceAh",
+      "file": "luceAh.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6e61ebbe7a92bf2c01d3802471b97219eb60d913bb6f29e4a93ccb5c7d1d96e1"
+    },
+    {
+      "id": "emotesv2_1ac5798843fc4cf78b945fe58db6fead",
+      "name": "luceArrive",
+      "file": "luceArrive.gif",
+      "animated": true,
+      "frames": 19,
+      "sha256": "883954e73482ee8f93db95706b14a9bbcc0c1c24ed31a069e528e83abe8a214c"
+    },
+    {
+      "id": "emotesv2_62d4e9272c6f439696ccf51e8969a137",
+      "name": "luceAware",
+      "file": "luceAware.gif",
+      "animated": true,
+      "frames": 10,
+      "sha256": "32f0a1c3a37ef3ae46df6c74417eff94d419667a81b5ed1c53a13f97cc050d87"
+    },
+    {
+      "id": "emotesv2_06c6ebf56fbc421da6683fd78058ffeb",
+      "name": "luceBald",
+      "file": "luceBald.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "31edf9c346d7216f0e0a8f3e02e4a0e49fee2098a0c67b20d496e9d00f95528f"
+    },
+    {
+      "id": "emotesv2_7a59ea4bcca841b78355d411d62ddb12",
+      "name": "luceBallin",
+      "file": "luceBallin.gif",
+      "animated": true,
+      "frames": 13,
+      "sha256": "fbe3f0e746e9e3fdf0e7e00fbba0a81e39bcdbf0f78c768670cd0b3e4c709d37"
+    },
+    {
+      "id": "emotesv2_e1f7071c61e241f691855d3002acd4df",
+      "name": "luceBalls",
+      "file": "luceBalls.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "0b0e8d9a02f3a67b6c672ec2adf6ad4c78d35cde17cf4c73f118ef0598d1a0b3"
+    },
+    {
+      "id": "emotesv2_0ee047623e03491c8fc4a05494a8c863",
+      "name": "luceBaseg",
+      "file": "luceBaseg.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "d79ef86d56c495d41d78e305d935983309a08748ef7c73dd13928058f1fb9c05"
+    },
+    {
+      "id": "emotesv2_9da2d097a3064a039dc5b6c7392e23a2",
+      "name": "luceBeef",
+      "file": "luceBeef.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "74fbc5a62461388aa67983b63488a9f8e51c4ab0c1713e3c7818ffc04d7844d9"
+    },
+    {
+      "id": "emotesv2_685b3a00114a4ff2a73d2e179e442405",
+      "name": "luceBin",
+      "file": "luceBin.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c88450ebec391d7f42914c85c6abf70810f57900d08edb0e9611350135cf591c"
+    },
+    {
+      "id": "emotesv2_63b08f6c06ec46fd940cf50d0c922254",
+      "name": "luceBite",
+      "file": "luceBite.gif",
+      "animated": true,
+      "frames": 3,
+      "sha256": "ad3c8fbb9bfbe3b986317d9c394f3eecc99b404b146afd3e81142ceb175edd6c"
+    },
+    {
+      "id": "emotesv2_d3ba943d6a5c471c85e333aadc6ad1f3",
+      "name": "luceBloop",
+      "file": "luceBloop.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "2034e4c7d4447929b7372ad075b31d0f8973c430631f3fda98799848fa183156"
+    },
+    {
+      "id": "emotesv2_4cf5c1e350394786a2398dbebf39e4e4",
+      "name": "luceBongo",
+      "file": "luceBongo.gif",
+      "animated": true,
+      "frames": 2,
+      "sha256": "9b2e2a75178a7ba20e31b01033ebb5d7ee365b23a94a347a8151df130ae46ad7"
+    },
+    {
+      "id": "emotesv2_404c748fc6b3483897716caada4b7644",
+      "name": "luceBoop",
+      "file": "luceBoop.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "0b3933fc368f4418f8ae8e7478072fbd9ce17b9c7f126372dea0272a3a727f2e"
+    },
+    {
+      "id": "emotesv2_da09673621154361984504d9211a6e33",
+      "name": "luceBreb",
+      "file": "luceBreb.gif",
+      "animated": true,
+      "frames": 16,
+      "sha256": "e176495016b7363af507590fdf7ba5216988797393cb3fcd309a9059f39dfecc"
+    },
+    {
+      "id": "emotesv2_4409c9020f944fd69d0188e0d2e499d6",
+      "name": "luceBuff",
+      "file": "luceBuff.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "627d232dc07cd4a01f28c329060cc4728ee01b7424dcbd34ae0cd5ba2e0c2959"
+    },
+    {
+      "id": "emotesv2_d3b64f7b189146a08b8690516e99ecb4",
+      "name": "luceBurrito",
+      "file": "luceBurrito.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "567f5b3a2a195049f4752aa4ccf59178310c296f0da25709f4e7056f5979cbfb"
+    },
+    {
+      "id": "emotesv2_224c9b3710c14761ac4105f9a42b2a12",
+      "name": "luceCAUGHT",
+      "file": "luceCAUGHT.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "52bf10cf0aa9dcd95e9e1b2be0d98d0cd3ef7967f6a9d20a6914b662d82703d6"
+    },
+    {
+      "id": "emotesv2_17ba0de005bc46f8ab63978f392f77e6",
+      "name": "luceCOUGH",
+      "file": "luceCOUGH.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6f317ca2ba8180a78c646aff8293b2697ed4951de05dcc19eb64ec2a3f723e25"
+    },
+    {
+      "id": "emotesv2_f1f1acf85da2417db00a7116ab589d1b",
+      "name": "luceCannon",
+      "file": "luceCannon.gif",
+      "animated": true,
+      "frames": 31,
+      "sha256": "d9368f2a6857fae434fc2431d3f6f06316ea404d79c3c26e4f168c8e3fddafab"
+    },
+    {
+      "id": "emotesv2_32c67074ab594d7cbd4cea067ab61e67",
+      "name": "luceChaos",
+      "file": "luceChaos.gif",
+      "animated": true,
+      "frames": 15,
+      "sha256": "c1051da3ad2e7a26c91170be64af2efd64d77be720bf9b7060589fa1f76c1f1c"
+    },
+    {
+      "id": "emotesv2_db00e23d6a4542f4aa7d125798f48cfa",
+      "name": "luceChatting",
+      "file": "luceChatting.gif",
+      "animated": true,
+      "frames": 10,
+      "sha256": "71246ce9818cf22144bab763c0b26bd283c19d9c48ce30aa4b06cf635b86767e"
+    },
+    {
+      "id": "emotesv2_90a286c77f734e9b9501f94497b53b8b",
+      "name": "luceChefsKiss",
+      "file": "luceChefsKiss.gif",
+      "animated": true,
+      "frames": 17,
+      "sha256": "a6e236c5b6af18c7e96e4377bdbbd45281d98be9b22da9188b2f625aec378398"
+    },
+    {
+      "id": "emotesv2_734fc421c85a4688b4fc3b3e2f4dc553",
+      "name": "luceChud",
+      "file": "luceChud.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "08cabc3dc4ed58ccb0b7b132ed29120b0e0ae12f9a19d19b2790167ca4c510f9"
+    },
+    {
+      "id": "emotesv2_a991ef3ec00d4245b86ee346b83d1438",
+      "name": "luceClap",
+      "file": "luceClap.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "2657b0a570bff0e658e26f26eb4ce579765a93be8b2b07554afe498c76dd2530"
+    },
+    {
+      "id": "emotesv2_d2b05f561f3b4c77b11742eabda23bbf",
+      "name": "luceClassic",
+      "file": "luceClassic.gif",
+      "animated": true,
+      "frames": 41,
+      "sha256": "6672b6057960d07349bc0da22931431f698802db6e371fba604a8e26ecbf721b"
+    },
+    {
+      "id": "emotesv2_d7b12994c11d4ebf9d69c78e83caf5fb",
+      "name": "luceClown",
+      "file": "luceClown.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c2e919bd4f60fb4811a60a7a9d46f0b7f3de448a9c8f65c306c5e9be9bc89643"
+    },
+    {
+      "id": "emotesv2_10cf0269b9744f119ff6e7a38f092777",
+      "name": "luceConcern",
+      "file": "luceConcern.gif",
+      "animated": true,
+      "frames": 43,
+      "sha256": "edad6d1792bd77352165dc120b4fc3c429f0ce112c0151f6ad499541663636ca"
+    },
+    {
+      "id": "emotesv2_378b3a5499464eda8d58c18c729b4c94",
+      "name": "luceCop",
+      "file": "luceCop.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "dd002be060539bfaace0ad5fd312472ae539d5a57a83fd8d5afc783814550317"
+    },
+    {
+      "id": "emotesv2_220f3fcdf2194d7cbb76740ed136be28",
+      "name": "luceCopium",
+      "file": "luceCopium.gif",
+      "animated": true,
+      "frames": 17,
+      "sha256": "6a2044bc9d27de8a3fb25b9cbd5b1555694fee9e8e0b3b602c293b5a03ff53a4"
+    },
+    {
+      "id": "emotesv2_8df6ca6a3739450bb00f17c152892add",
+      "name": "luceCorpa",
+      "file": "luceCorpa.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "01d37f67b49c411109c24dc08a56724c49b6109a96213803e4a441250d5a8aee"
+    },
+    {
+      "id": "emotesv2_9b5b20810632409492489d01398801e1",
+      "name": "luceCozy",
+      "file": "luceCozy.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6bd0d33cad823f29e05470f6c1c5812516012fa2c2bb6448e5a565deff21e898"
+    },
+    {
+      "id": "emotesv2_71cb6af7e5ed49f3b624bee26a7be743",
+      "name": "luceCrashout",
+      "file": "luceCrashout.gif",
+      "animated": true,
+      "frames": 46,
+      "sha256": "9470e21fa0efdeb45315a0f009799dd7e6255fa74f646ddd22b8d339a1961369"
+    },
+    {
+      "id": "emotesv2_0b4c3a6660e541babdeba08a539d356c",
+      "name": "luceDaddy",
+      "file": "luceDaddy.gif",
+      "animated": true,
+      "frames": 60,
+      "sha256": "8098a186aa832207cacb11d30acdc96688473d75e18295e133fc51c357993b75"
+    },
+    {
+      "id": "emotesv2_3e15e64096b745e682de8dcbe491b419",
+      "name": "luceDansi",
+      "file": "luceDansi.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "5ba271856948f999a735002a161e5c573b599f2f0658fc1b3fc56ce2968c5c78"
+    },
+    {
+      "id": "emotesv2_5e02bc348faf491f865b5ce8289a871f",
+      "name": "luceDefeated",
+      "file": "luceDefeated.gif",
+      "animated": true,
+      "frames": 60,
+      "sha256": "5f386262b75e9259cf645f97c3bbe0219dea9389fecd5747df56792435aeb369"
+    },
+    {
+      "id": "emotesv2_3b34cd1fb45548ffa25267ccf2e37256",
+      "name": "luceDies",
+      "file": "luceDies.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "36699fdd8aae32352d388c5113586bfaf74593fdf164142814a6d2b41fe84704"
+    },
+    {
+      "id": "emotesv2_96c973bb88e64faa9ee7f07a93d2580c",
+      "name": "luceDinkDonk",
+      "file": "luceDinkDonk.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "c9b51ff6ce66514c5d1a02e80d624c56f2ba978fc75db799c26c8c835b51bf8e"
+    },
+    {
+      "id": "emotesv2_45a0c2dab76c435c9f53623aa811ccf7",
+      "name": "luceDoroCombat",
+      "file": "luceDoroCombat.gif",
+      "animated": true,
+      "frames": 19,
+      "sha256": "0aa1497e64ab85ed356852b02639bd3649d9e3bf8258b16948c46b159a8b6296"
+    },
+    {
+      "id": "emotesv2_4facaffe83b14c3aba4ba7454bc52146",
+      "name": "luceDoroWhip",
+      "file": "luceDoroWhip.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "d3fafb990e3049146590d12decd27d3c60ffb4e2d3f93b5d73b15b48294309c7"
+    },
+    {
+      "id": "emotesv2_fb799b2414bd4f8b9d5e95ac5ab34f64",
+      "name": "luceDumper",
+      "file": "luceDumper.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "8b02338bb502fd73ae9212dc779130801a774ba8fc12a8c86d37347d00f36af4"
+    },
+    {
+      "id": "emotesv2_9cd9a0cb9e074cabb9a7cd2204c7a7b2",
+      "name": "luceEZ",
+      "file": "luceEZ.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "372d45b8d94a744f18b7d13b5bd732c8e6b1e6284fc29b171c674a44c8904b28"
+    },
+    {
+      "id": "emotesv2_f3eaf50133614b1a932c1e0d69f17edc",
+      "name": "luceFella",
+      "file": "luceFella.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "89ba18037f60a707be0aefc8cdf5be5237d74cb7d0680274c562e0c82bffea4a"
+    },
+    {
+      "id": "emotesv2_51df6027f2f24911bacd8972bd7bb14a",
+      "name": "luceFight",
+      "file": "luceFight.gif",
+      "animated": true,
+      "frames": 20,
+      "sha256": "0f1cb431fdb2667899dc46663a7f1b7ba15e66b7a65894f801a574108f1c10a8"
+    },
+    {
+      "id": "emotesv2_54ab31b452d140569882007b1a0a9908",
+      "name": "luceFish",
+      "file": "luceFish.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6ab36407838f354e26919f577e1e0c95bb71ddb278450a198622fe7ffcba2c2f"
+    },
+    {
+      "id": "emotesv2_a94c9da4eac8433ca591b3ce6b395f5b",
+      "name": "luceFlower",
+      "file": "luceFlower.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "41a6b5c7228a218406f1d56b4eb66b1ab7033db3d3304c1b84745eed2adf22ec"
+    },
+    {
+      "id": "emotesv2_350dcdde4892457480a520d4bc62d2cb",
+      "name": "luceFriends",
+      "file": "luceFriends.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "ae994e9b6f2628919a6a8817db883badf4a2c73987e5054a2a6196d7f1d82691"
+    },
+    {
+      "id": "emotesv2_26cc57a15fb94b8f8841bdb589a0a14e",
+      "name": "luceGamba",
+      "file": "luceGamba.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "278d02b1e8f71d93434dd6449de4ec092dcfa75fa8e3bd43090ff877cd7920b9"
+    },
+    {
+      "id": "emotesv2_1b0a75cd1c664e9b80e2df128524d905",
+      "name": "luceGaslight",
+      "file": "luceGaslight.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "aa63fa0348e66e99cb2b700a06751278560d881481767495a2874bba4381259d"
+    },
+    {
+      "id": "emotesv2_8710805a17b84dec83a68e02413e54bf",
+      "name": "luceGatekeep",
+      "file": "luceGatekeep.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "a1c0916d8015de59389aa062c3a028f19bf2d6037b91de36b0e5da9dd0a3b6ae"
+    },
+    {
+      "id": "emotesv2_473902d154df4068b6c44a4ef1c83f1f",
+      "name": "luceGet",
+      "file": "luceGet.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6937f818a5843eb1abdc0f6b8312c0067b35143136915e735f5162589652abf7"
+    },
+    {
+      "id": "emotesv2_be095a4d86f8467f8bcedeab34b56909",
+      "name": "luceGoompapa",
+      "file": "luceGoompapa.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "bb5771c91e412366a61ee991b6ebdc0db7e5b5441d166fc40da067f3b6157392"
+    },
+    {
+      "id": "emotesv2_72020e912f1d4b37b0980f7eb4850c9b",
+      "name": "luceGrab",
+      "file": "luceGrab.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "d4faef94fd82b38d6096bf43d8f2c0a81bcd503a2a689390405959c6c7d724f1"
+    },
+    {
+      "id": "emotesv2_8cab9bea3f0b4a18aac697d7b8115045",
+      "name": "luceHONSE",
+      "file": "luceHONSE.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "9221d21a57e902598a480030c71e7f306311e523b4211bd1f66d3bb6b293010d"
+    },
+    {
+      "id": "emotesv2_a03623f469ba40b680709bd298a05a16",
+      "name": "luceHappi",
+      "file": "luceHappi.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "6b74ec6ca04e4c457417c3d85aa79c2ea93b940249c036556ee837596771e851"
+    },
+    {
+      "id": "emotesv2_7bdcc20eaff24ea2b0aaf2bfd1427721",
+      "name": "luceHappy",
+      "file": "luceHappy.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "e58de80d31a8a160980fb46d883b0a1f4ca56df7725e26686d7f3947c719c79c"
+    },
+    {
+      "id": "emotesv2_a5e219675dc34fe8bdb7fe14ae4bbe12",
+      "name": "luceHeart",
+      "file": "luceHeart.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "b39931bb8d28d9bb9286068e62de264bde9e40c97c48e5e147b4ca0612ed826c"
+    },
+    {
+      "id": "emotesv2_61633918a637467cb5ed57dd230de42c",
+      "name": "luceHearts",
+      "file": "luceHearts.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "51af018f96d542b0bfaa954573953f6fc13443dedde933d5a7da719fddbc2822"
+    },
+    {
+      "id": "emotesv2_f5bc2936e7f148b4a414fa7e030d477d",
+      "name": "luceHeckU",
+      "file": "luceHeckU.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6c519b585bc47e7d89519dadb920dab1291a89770d9e2e7281a44625d0a7757b"
+    },
+    {
+      "id": "emotesv2_c4a6f808d2224ad2acb8ff2ea351d87e",
+      "name": "luceHehehe",
+      "file": "luceHehehe.gif",
+      "animated": true,
+      "frames": 48,
+      "sha256": "fc9844b6930bf562a0a6d94a08698d1b5df619e63fdbc3bd8284f1b7882ef3c3"
+    },
+    {
+      "id": "emotesv2_44e0830762f640caa09de4240a23827b",
+      "name": "luceHi",
+      "file": "luceHi.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "890e8c459de9eb708dadbd9aa2af9e82b1b30102d295bf649e1cde381231d689"
+    },
+    {
+      "id": "emotesv2_3c2680902e2643e0a952938d49174c37",
+      "name": "luceHii",
+      "file": "luceHii.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "071aa81b34e401e2c368c8982984371bfc3fd6655aaf174c2694c65720e2fdd8"
+    },
+    {
+      "id": "emotesv2_6cf90407a5fb4d61bf8cd16cd065bb09",
+      "name": "luceHmm",
+      "file": "luceHmm.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3762397c0abc50e68f8dbd7e886fff7b162b3bef56ba5dd558aabdf374913daf"
+    },
+    {
+      "id": "emotesv2_411ffb1f90224e0bade831e1eac37688",
+      "name": "luceHug",
+      "file": "luceHug.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "819fa9c3eba37e98ca83528bf04be9fc31f5a2c8fdd12515e54d6c8a13a522b1"
+    },
+    {
+      "id": "emotesv2_5da61ff2b6c949e29b6c49f224323c0b",
+      "name": "luceHype",
+      "file": "luceHype.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "91d55d2318c81daba17b1be870cc3bb27a04be7aaa9ff03aa5e2063afc3f5439"
+    },
+    {
+      "id": "emotesv2_11cf5ca3b8ed4b9dbac64f3ecc23fb4e",
+      "name": "luceJam",
+      "file": "luceJam.gif",
+      "animated": true,
+      "frames": 14,
+      "sha256": "56ef0b90941e4cde485da0546ca85774debb6ce4b38ed7231eec5bcc35981559"
+    },
+    {
+      "id": "emotesv2_4be4169a7cd449ae8deadf4430ff31d1",
+      "name": "luceJawBiden",
+      "file": "luceJawBiden.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "7b1627c8588a9e7e12210dc6254757afd983682ca1f49eb1783c1699945fafc3"
+    },
+    {
+      "id": "emotesv2_579cf76b4aec4d119aa055b797a136f5",
+      "name": "luceJester",
+      "file": "luceJester.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "36676c89ea3e98b0e82b5fa69060a7701c8286dbb58810fe71b6aa08c9b6c32d"
+    },
+    {
+      "id": "emotesv2_57d9ff41781946aa822558f41701ac61",
+      "name": "luceKnife",
+      "file": "luceKnife.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "aa2f213b3bae3aecbbfe2ed35fe2b211327dd9e7556f22e46a5e8744d1c16757"
+    },
+    {
+      "id": "emotesv2_f438144571af4f21aabf19a004079288",
+      "name": "luceKnight",
+      "file": "luceKnight.gif",
+      "animated": false,
+      "frames": 1,
+      "sha256": "cc8038941af121ea796d943af19926c8ce51702cba80e16b2a5ee74a4fdf659a"
+    },
+    {
+      "id": "emotesv2_2184ffab980d4398932eb093e1651c59",
+      "name": "luceLETSGO",
+      "file": "luceLETSGO.gif",
+      "animated": true,
+      "frames": 12,
+      "sha256": "079bf79cd65a40205a008ee4e60048204e5bb7faafaf73c8c31d434f0a860d13"
+    },
+    {
+      "id": "emotesv2_7ee04fd59cb0459da8c333effa1d82b7",
+      "name": "luceLab",
+      "file": "luceLab.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "06fb78b23e5d3a55ba7a48c84711b3a3a73ebb3ed88eddb5f7ae22edb60bcef5"
+    },
+    {
+      "id": "emotesv2_c227d430f85644e89baddab297c4a852",
+      "name": "luceLaughs",
+      "file": "luceLaughs.gif",
+      "animated": true,
+      "frames": 4,
+      "sha256": "5ce4942c39d0cfe652bfd79fc1da3e59e66f2d0f4fb7f438c887ad937934ca2e"
+    },
+    {
+      "id": "emotesv2_3a133da7b1204f199443585b6dc978ce",
+      "name": "luceLeave",
+      "file": "luceLeave.gif",
+      "animated": true,
+      "frames": 16,
+      "sha256": "86faac5be09901d548c694b66c220d4bc9274eaa6adfdd3c0f689b1f74df59d1"
+    },
+    {
+      "id": "emotesv2_230043bd0d1f4f0ca7337e791fb15cb9",
+      "name": "luceLick",
+      "file": "luceLick.gif",
+      "animated": true,
+      "frames": 11,
+      "sha256": "f9532c2b75980ec32cc9f666fe666ac1c31ad9f3ea95a4e8bb8c3da3ebac7541"
+    },
+    {
+      "id": "emotesv2_e533f61b82bf434691d61a640e14b939",
+      "name": "luceLookUp",
+      "file": "luceLookUp.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "b1b36773594d7e4ce87411adf1c9576e939d36bb92d04f8815bb643332e0e121"
+    },
+    {
+      "id": "305758661",
+      "name": "luceLove",
+      "file": "luceLove.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "2889be82bf9a5fa22a9b7e23fdb3c077cddb4bbfe5b21ae2f6d02c4d36e7c0ee"
+    },
+    {
+      "id": "emotesv2_07e0228d49e14f898c43612c80bdd8c9",
+      "name": "luceLuce",
+      "file": "luceLuce.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "0cf3f962074f4e9ae2b956dfff55f017160791c5d3a291f59d822c8e848b78b0"
+    },
+    {
+      "id": "emotesv2_b1ddb8ef0ee6492cad94adff61a17134",
+      "name": "luceLurk",
+      "file": "luceLurk.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "1c3884f93fd295413437cb64e8d30547fc648f39a186be8d1ee8237f787001b9"
+    },
+    {
+      "id": "emotesv2_65268b667932458585a7d4101837e3db",
+      "name": "luceMhm",
+      "file": "luceMhm.gif",
+      "animated": true,
+      "frames": 31,
+      "sha256": "0eb203ffb69c05e92695e2f5364f0aa6958976bdcb0a6bcc6ad700fe86d0f6cc"
+    },
+    {
+      "id": "emotesv2_84a52f7c52b6420981630fbf07254c21",
+      "name": "luceMischief",
+      "file": "luceMischief.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "85a887c15c5d9edd3eb8b0e71a7d072786e2e0cf22ed6e70d6ecc5c1629b7ae1"
+    },
+    {
+      "id": "emotesv2_23a40b61092b42d29905b1393b967327",
+      "name": "luceModCheck",
+      "file": "luceModCheck.gif",
+      "animated": true,
+      "frames": 28,
+      "sha256": "66479bc7dccadcd7b0807a9d7bbf1eea6bbe10f920690041b463a164f8b5b401"
+    },
+    {
+      "id": "emotesv2_d400b7cf994547afa4a1c2f302f5e499",
+      "name": "luceNODDERS",
+      "file": "luceNODDERS.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "d6568a80e32653fba4983c6a3591a6bcbbaec5751ba71941e5a3a1623548121a"
+    },
+    {
+      "id": "emotesv2_d15afce458a74b7bb26f73dde538a69f",
+      "name": "luceNOOO",
+      "file": "luceNOOO.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "5ca7421d8f68d32a61cc6749ba735820b4e13f80941a34ac2ab98d6304404848"
+    },
+    {
+      "id": "emotesv2_48b7a1141eec4972803323e77afca3c9",
+      "name": "luceNOU",
+      "file": "luceNOU.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "47f908651be5f228909d1f8898e0c60efa93acd9cf2ff22c29a00040cf33a62f"
+    },
+    {
+      "id": "emotesv2_5083a3d0a28f4bfc9f54b30f050a5548",
+      "name": "luceNegative",
+      "file": "luceNegative.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "42b5028c3e434e1fdb706d06c67aff66de95a075b4363648ae917e207aab73b3"
+    },
+    {
+      "id": "emotesv2_dbf211c097fe4dff9be3f0e0739369b6",
+      "name": "luceNerd",
+      "file": "luceNerd.gif",
+      "animated": true,
+      "frames": 33,
+      "sha256": "aa0aca1e2ad1432aa0f223bcfa9bc3fe400fe8353378433e6f64436882b4399f"
+    },
+    {
+      "id": "emotesv2_109e784d88fd45609902fa1e968d8e5d",
+      "name": "luceNice",
+      "file": "luceNice.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3e00b9c2844629546a539b320808424106403e7d99001cd47d96c6a193ecd57f"
+    },
+    {
+      "id": "emotesv2_7eed8db248eb40b792d22222e6577c22",
+      "name": "luceNoted",
+      "file": "luceNoted.gif",
+      "animated": true,
+      "frames": 43,
+      "sha256": "b6f6881af85bd41df5d3e78446de52deca927deb9f7098d24515b4e67d3ef55a"
+    },
+    {
+      "id": "emotesv2_32856ab8aa824839a282c5918675bdb8",
+      "name": "luceO7",
+      "file": "luceO7.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "781209ccfb372c779cc83f74ae2116baf7927392639125278c177ac1d461b7c4"
+    },
+    {
+      "id": "emotesv2_080f545f5c584f46b1f7d1b1e7e9f231",
+      "name": "luceOINKW",
+      "file": "luceOINKW.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "a9cb7063e8b8497cddf403e2cda008c65a2385372ffce9882dd52be75b9e9aab"
+    },
+    {
+      "id": "emotesv2_893eb331486946cd9dc6bf27e7e12ab8",
+      "name": "luceOinkhole",
+      "file": "luceOinkhole.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c33dec89eecd63c33e2148954830f814591f15567e7178b0e3cc900aaa539ebb"
+    },
+    {
+      "id": "emotesv2_4bcd8be9a045447497b229db60f2098b",
+      "name": "luceOk",
+      "file": "luceOk.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "7d838b2489a1b76c7ba70db3432bcca915be111cad314f5c9b41abd0d9c94ddf"
+    },
+    {
+      "id": "emotesv2_a7225d93c07a47aa9b98db9b0804b5b4",
+      "name": "luceOld",
+      "file": "luceOld.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "131eea9630d3583a1532ce490752d4658e2adb6c4a3340da1f70ee0ba02a1e35"
+    },
+    {
+      "id": "emotesv2_0a6c64707be343a5956a98849464e08b",
+      "name": "luceOuhh",
+      "file": "luceOuhh.gif",
+      "animated": false,
+      "frames": 1,
+      "sha256": "e27fe2fc35a470726917d14aaf4e074fa7d9d79735d3e08f2d140794b34a8525"
+    },
+    {
+      "id": "emotesv2_20d6d849ac6a4ee59abec8a86a6f024d",
+      "name": "lucePackItUp",
+      "file": "lucePackItUp.gif",
+      "animated": true,
+      "frames": 41,
+      "sha256": "e78bfb865f1c8725ec0575e1f73337b475b4500612e2f163f03729d9398e9f3e"
+    },
+    {
+      "id": "emotesv2_3eaba67472474c25b3fc8677d1abb066",
+      "name": "lucePanic",
+      "file": "lucePanic.gif",
+      "animated": true,
+      "frames": 52,
+      "sha256": "4e3ec990e5439514125793621a3d0d289f514d01b023863ccde14e01db330f08"
+    },
+    {
+      "id": "emotesv2_bf8b18d9758a4b7fbf716ba0e8ff2419",
+      "name": "lucePantsu",
+      "file": "lucePantsu.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "e410706cc95d3cd4f036a29f549dd5ed0cfc1f7f774eb691816864f6d3dbf08a"
+    },
+    {
+      "id": "emotesv2_2afba1e114364d30b5039e508b598232",
+      "name": "lucePat",
+      "file": "lucePat.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "c98097c315ff40ddad34a9090ad8dddf08e854383cebb8dbbccbc53a60ada8e9"
+    },
+    {
+      "id": "emotesv2_9124ad49a52c4ae2a42989a448cbc79b",
+      "name": "lucePeepers",
+      "file": "lucePeepers.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "6277a62059f622cbc052bb57c36d7dac8ea49bfa917fe28c30f27db28775f464"
+    },
+    {
+      "id": "emotesv2_3c7a5471fd6d4d92b88586ca53e1bf04",
+      "name": "lucePlead",
+      "file": "lucePlead.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "61c00fd7d33f815fc2f265ec034794a31879178d4260ceeb8167f5eaadbd510a"
+    },
+    {
+      "id": "emotesv2_06006d8b25b543e8ac34ff3714373154",
+      "name": "lucePls",
+      "file": "lucePls.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "4c7e6370e7c46a646aaee6874f03b2b558d7ad416be27e2185f73e5286ef275b"
+    },
+    {
+      "id": "emotesv2_cd708e8cc50243d19cda00a9520492eb",
+      "name": "lucePog",
+      "file": "lucePog.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "ffc6d7e0bbbcfd56f7eb3322485b6f427d9818d04862b777e16431f6bdc3c930"
+    },
+    {
+      "id": "emotesv2_2d8790e58402477d93bee92dffaa569e",
+      "name": "lucePoint",
+      "file": "lucePoint.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "b2275ab7ae95c528245e1e30f1d38d3725b8e9002a88b2b6e261758c359b90c7"
+    },
+    {
+      "id": "emotesv2_a311bada81f34ca89cc95785bda05f40",
+      "name": "lucePoof",
+      "file": "lucePoof.gif",
+      "animated": true,
+      "frames": 16,
+      "sha256": "9f7fa630dacc44db4e33c95b95319c872c80fd78807e78006cbe452317e2d2ff"
+    },
+    {
+      "id": "emotesv2_c93d8e58091c4ecaa42affaa07a59b99",
+      "name": "lucePop",
+      "file": "lucePop.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "49561aeecd3f42bba9ca86d15c46fee3c3d7274660d18eb2ad4bfe84c5178c6f"
+    },
+    {
+      "id": "emotesv2_e7adb47fb57246cc91b4bba77de68bcf",
+      "name": "lucePopcorn",
+      "file": "lucePopcorn.gif",
+      "animated": true,
+      "frames": 40,
+      "sha256": "ede7423ee2e9f188b1510aa4a6643b71ece385f283f356ffd70a1077eaa5bd69"
+    },
+    {
+      "id": "emotesv2_f22ead263c1b4e6d96db3ae9e6dcd6ad",
+      "name": "lucePout",
+      "file": "lucePout.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "ce996a02617fc80188fad6cdf44b80d22f02b52a9c51ba03e4352490b4b0b68b"
+    },
+    {
+      "id": "emotesv2_d07c2d02040a423c82d96bd5e77ea334",
+      "name": "lucePray",
+      "file": "lucePray.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "9c3ca7eed1146f1ffd865e5731572693f9b171f7deffbafb5e9deed63d7a2ec2"
+    },
+    {
+      "id": "emotesv2_15d35489ee7c41d3bb10f24d8adcfd6c",
+      "name": "lucePride",
+      "file": "lucePride.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "fcb79c4784942126dbeeac5ca464e59a9b2812c6d184896c73c69e3efef7212e"
+    },
+    {
+      "id": "emotesv2_fe3a35cdc47a4b18a19f733f430181e3",
+      "name": "luceRawr",
+      "file": "luceRawr.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3f63c78c2984f1df1b6767665259b6a23e05f0268172732644c540def8a36dce"
+    },
+    {
+      "id": "emotesv2_ba4fc45de2aa4808b02921af98d9fac3",
+      "name": "luceRiot",
+      "file": "luceRiot.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "e7826db9ca1268d37827881957b405d2d5097f13bd1c4472bc4e952589323be3"
+    },
+    {
+      "id": "emotesv2_15b1d298ff944346b57e92761ef8da16",
+      "name": "luceRoll",
+      "file": "luceRoll.gif",
+      "animated": true,
+      "frames": 33,
+      "sha256": "f53f1c4d010e7599d5a49ff8f0c2b57d1c17417dca6a50e8083b0e98eb1ce311"
+    },
+    {
+      "id": "emotesv2_9fb2dd907c12451e842535bcdd6caba5",
+      "name": "luceSad",
+      "file": "luceSad.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "0afb945eb2bccb2ff40cf536c81ec872f1051d7ff145d902dc344df30bc044ba"
+    },
+    {
+      "id": "emotesv2_367762234cbc485b84e3092f00536f8b",
+      "name": "luceScamper",
+      "file": "luceScamper.gif",
+      "animated": true,
+      "frames": 6,
+      "sha256": "b3788cf157a3163ed1d25bbd8a9d38b1404dec959bfe36d0d4847bbda64b0ffa"
+    },
+    {
+      "id": "emotesv2_24376baf8a8e4dc8a0ab57ac06a07823",
+      "name": "luceScuffed",
+      "file": "luceScuffed.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "9e6e5428be2e6b3b2dc90fc6282ab8a9d28fa7f92e4e2ed586032d93611d8504"
+    },
+    {
+      "id": "emotesv2_43c12f74b08b4547b9a8f61a8416ac0f",
+      "name": "luceShake",
+      "file": "luceShake.gif",
+      "animated": true,
+      "frames": 9,
+      "sha256": "2bb89f3f28c6e42108e5a8196bb97948458d8bf4d17b2799e37b72c3150c7117"
+    },
+    {
+      "id": "emotesv2_e5868e9366f8400dbcf83102ad807ef5",
+      "name": "luceShoot",
+      "file": "luceShoot.gif",
+      "animated": true,
+      "frames": 62,
+      "sha256": "3cf13ad86e840d70e6fc9addfc02b3e48e31b5fcf3579a0a68fbeef385f6fee3"
+    },
+    {
+      "id": "emotesv2_5d7aa4f836024aabbb1da097bfecc584",
+      "name": "luceShort",
+      "file": "luceShort.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "f5dc2cf1be8af1c78b119e6bd8ac3edc81a255d352782b08997a168089bacad4"
+    },
+    {
+      "id": "emotesv2_3b9cd2b936524f0dbde03aa6e5a737af",
+      "name": "luceShy",
+      "file": "luceShy.gif",
+      "animated": true,
+      "frames": 24,
+      "sha256": "9d928cef6784aee2be4da69081d20faa36a16f5dc4b8a0b34c0eeb97efb954cc"
+    },
+    {
+      "id": "emotesv2_420b8a222d464fae8aa9ca99882a6097",
+      "name": "luceSit",
+      "file": "luceSit.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "fb69f3415aaff27eecd6e84d277a96c68769da3d5dd9c6626a4a673fed2c12a0"
+    },
+    {
+      "id": "emotesv2_7be58597650d4dbea2c739a5a2d0ba97",
+      "name": "luceSlay",
+      "file": "luceSlay.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c810635d98f1394fd6a37723e1d1732d44acada88bd5b638ae2f36419e2b407c"
+    },
+    {
+      "id": "emotesv2_13389a688bbd4545b591e77e8c5155f6",
+      "name": "luceSmadge",
+      "file": "luceSmadge.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c8349fa5d387d2bfb23c8b7e3b3011c7490afa6e43b791faa794ba7717df5506"
+    },
+    {
+      "id": "emotesv2_26c3c8aff3204f93b7810114bea1c7a2",
+      "name": "luceSmolCrimes",
+      "file": "luceSmolCrimes.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3ac2a097c678933dd1e2540090af5a5631f0e180471ed0206dac6a3e504cf3f8"
+    },
+    {
+      "id": "emotesv2_6ad2898ccffc4386802b1db7fe9ee243",
+      "name": "luceSmug",
+      "file": "luceSmug.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "2f04e444936f1e0f5ecc7097f094cd7b8a54e7bfcfbef895076cd4c169710b71"
+    },
+    {
+      "id": "emotesv2_ddf6e4f94b5144b984e329d591b77100",
+      "name": "luceSoCute",
+      "file": "luceSoCute.gif",
+      "animated": true,
+      "frames": 12,
+      "sha256": "f22f4a82eb9a529e458ef5da43a0a63851dede226969a1491ee0518195dc86a9"
+    },
+    {
+      "id": "emotesv2_38f258ad8517413293bfa1d8ebdd306a",
+      "name": "luceSpin",
+      "file": "luceSpin.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "946d0e20ee4ae8fc754d01645ba73743c92b7ddfca9227ada7fae506170af5a8"
+    },
+    {
+      "id": "emotesv2_5147182036804eadb8f038bf0a93aa5a",
+      "name": "luceSquish",
+      "file": "luceSquish.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "d52b5617fa88d4f331f29bbcf8e08171cdef7d0a49fe41f1f74dbe1daf015b0e"
+    },
+    {
+      "id": "emotesv2_7e4a772109414ccd9831ec48119342f0",
+      "name": "luceStall",
+      "file": "luceStall.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "bc047203604789c3b483ea1194ef80de450aa06d62990b36d8a5352157a5a52d"
+    },
+    {
+      "id": "emotesv2_5ea84ff3d0c24af8a06c65317d4cabcb",
+      "name": "luceStare",
+      "file": "luceStare.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3d19d96204a281a86021a6eb3b12ed947868ec3b749ec8c9e9455c048c26309b"
+    },
+    {
+      "id": "emotesv2_38e4e777ab7c4bffb6815f397d0114df",
+      "name": "luceStuck",
+      "file": "luceStuck.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "fad0e90153112e7d74f09db483e071c70f8d1039d360144475d6d0ba2f8ef4ea"
+    },
+    {
+      "id": "emotesv2_1ec92286d4c64ae89c8ab650bd0cf794",
+      "name": "luceSus",
+      "file": "luceSus.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c78e8265b3c9616feea607a39bbddfa91776db6582c122014b3f8a1533b33ff7"
+    },
+    {
+      "id": "emotesv2_6a225a881909472db58c21c7d33fd1c6",
+      "name": "luceTaunt",
+      "file": "luceTaunt.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "70cd5ef14607c265af559ec5dd775622f7ae270f34d8a9385a083d2dc6f60739"
+    },
+    {
+      "id": "emotesv2_35dc581f8e3f478b9e14e143b1bc27f2",
+      "name": "luceTea",
+      "file": "luceTea.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "d8a8095269f8aee2fd22c439d78c8125cff6182d104ca310ebd6fa6d9be5457d"
+    },
+    {
+      "id": "emotesv2_6f58a9b4925d4ccfbac860838a64e4db",
+      "name": "luceThinkies",
+      "file": "luceThinkies.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "b9db8721d459e052802bb904066bb22dcefc6f5f91fecd02b8202711bbbe774f"
+    },
+    {
+      "id": "emotesv2_2f1ae5fd3bc84beca24c707113e88f86",
+      "name": "luceThisIsFine",
+      "file": "luceThisIsFine.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "a842fc585c20e10340a527704c898b0c48c29b90620b4ccd4b7e56f67ed85cb6"
+    },
+    {
+      "id": "emotesv2_e88a86067ed8434582984f8a6808e5d9",
+      "name": "luceTotoLuv",
+      "file": "luceTotoLuv.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "54f18a25bbe1cfb7bfdc22b47a12a881f5e2ad46d07937be804014ecd877f504"
+    },
+    {
+      "id": "emotesv2_0a92225319574b4abe6ced4af1133e56",
+      "name": "luceTuck",
+      "file": "luceTuck.gif",
+      "animated": true,
+      "frames": 16,
+      "sha256": "bd1edd32f19ddf27637d41f24e4457eb856c7eb24b3343f41b741eba162c4184"
+    },
+    {
+      "id": "emotesv2_68b45405b77f4d3c89390cb2ec363fd6",
+      "name": "luceUwU",
+      "file": "luceUwU.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "bf753056fd7af081164188a281f08fafee8a67ef68314b5ff2e629a0eb932d5a"
+    },
+    {
+      "id": "emotesv2_373c396a63f241bca570efb7a300d4bb",
+      "name": "luceVibe",
+      "file": "luceVibe.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "ce4b28130cc5f79747473e8ed6499060545c54207f2e02192e3fd7b91a8f40d5"
+    },
+    {
+      "id": "emotesv2_3453b596033f4933a231cdb1224d8feb",
+      "name": "luceWaving",
+      "file": "luceWaving.gif",
+      "animated": true,
+      "frames": 8,
+      "sha256": "0da8837e84f3cd29faeff1c8a5c8b96da0c2b09e486b276b7226cd7679829434"
+    },
+    {
+      "id": "emotesv2_0955f9a3e0d44ab4a3192105a30565a9",
+      "name": "luceWhacka",
+      "file": "luceWhacka.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "ad97b19ac86504014809012549dcfb5ca79e6f65cd4b192fd8dbae57d784874e"
+    },
+    {
+      "id": "emotesv2_ad974766f8384e14ad2b4860e166d8e3",
+      "name": "luceWhat",
+      "file": "luceWhat.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "bf482e720f8125261b13907417b2bdd8f960554052b148323b72ead40bb10030"
+    },
+    {
+      "id": "emotesv2_4e0efc2591ab4682bce351f0981a15d5",
+      "name": "luceWheeze",
+      "file": "luceWheeze.gif",
+      "animated": true,
+      "frames": 12,
+      "sha256": "9829595d21dbf7b65584904263087b1c29b03e93a00aebb6bf70a8c180c7fcb3"
+    },
+    {
+      "id": "emotesv2_8b9fd74ea68c4bf7aa58e0dedc2ea8cc",
+      "name": "luceWin",
+      "file": "luceWin.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3020560b01cabcd99395f25ee6514e5d2c82103cac88323ef8d41066c3e76e97"
+    },
+    {
+      "id": "emotesv2_d548b9b43c274cddbc4975a32840aa3e",
+      "name": "luceWobble",
+      "file": "luceWobble.gif",
+      "animated": true,
+      "frames": 15,
+      "sha256": "7475e3386ac2c8f939cad50b9afc0be0e493e4a693564697d1086054632c9a88"
+    },
+    {
+      "id": "emotesv2_0930738bca694c35a68d77871c39914f",
+      "name": "luceWonk",
+      "file": "luceWonk.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "ca01c6493c504cf38a8bfea138bf6082160443c9e1a680c60a4a0133c7dd2f37"
+    },
+    {
+      "id": "emotesv2_54fd4d2d9fab44a7a2f38cbd084691ef",
+      "name": "luceYAAAY",
+      "file": "luceYAAAY.gif",
+      "animated": true,
+      "frames": 16,
+      "sha256": "8035f07f4d7989f751ca469a012f0e80fa2fbf38b837f42113754e00a6ed0682"
+    },
+    {
+      "id": "emotesv2_9534c840a3da409b9ad11141afe6ae60",
+      "name": "luceYapper",
+      "file": "luceYapper.gif",
+      "animated": true,
+      "frames": 2,
+      "sha256": "fa1e4602992e369524c5bad0fabc298a2809f37df1857d375309e2526f1c0663"
+    },
+    {
+      "id": "emotesv2_fe675e6b8fcb4a15ae34a6bf69160c54",
+      "name": "luceYell",
+      "file": "luceYell.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c1644bae72717524db64607a798ac1a94ef9651ceb7a43025b73053a25f857da"
+    },
+    {
+      "id": "emotesv2_3bacc18a8e4a4901b3c702d5f454b430",
+      "name": "luceZonk",
+      "file": "luceZonk.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "3e262b22eeb3473bd2fd2dac32300f61b147a4d5eeb44f877337a574be23d130"
+    },
+    {
+      "id": "emotesv2_d38e6d9c136b40b8bccfb51c577ffb67",
+      "name": "luceZoom",
+      "file": "luceZoom.png",
+      "animated": false,
+      "frames": 1,
+      "sha256": "c95386f0d264e7b5739fd8f2453bb3c9621df6a09819850dc33d14597094444c"
+    }
+  ]
+}

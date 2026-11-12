@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local emote sync tooling
+/scripts/
+/package.json
+/package-lock.json
